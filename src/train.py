@@ -1,3 +1,4 @@
+# Random forest trainer (parameters come from params.yaml)
 import os
 import joblib
 import pandas as pd
